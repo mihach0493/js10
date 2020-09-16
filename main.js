@@ -11,4 +11,4 @@ function biger(x1, y2) {
     return y2;
 
 }
-console.log(x1, y2);
+console.log(biger(x1, y2));
